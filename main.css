@@ -82,12 +82,12 @@ img:hover {
 }
 
 .align-right {
-  justify-content: end;
+  justify-content: flex-end;
   text-align: right;
 }
 
 .align-left {
-  justify-content: start;
+  justify-content: flex-start;
   text-align: left;
 }
 
